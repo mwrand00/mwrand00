@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Matt ( @mwrand00 )
-- 🌱 I’m currently learning Go and some compiler/low-level stuff.
+- 🌱 I’m currently learning C/C++ and some compiler/low-level assembly stuff.
 - 😄 Pronouns: he/him
 
 <!---
